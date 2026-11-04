@@ -255,7 +255,7 @@
 	Can't find a command? Press {key} and type what you want to do.	Befehl nicht gefunden? Drücken Sie {key} und tippen Sie ein, was Sie tun möchten.
 	can't split at the first row	die Tabelle kann nicht an der ersten Zeile geteilt werden
 	Canvas Member	Element der Zeichenfläche
-	Capitalize Each Word	Jedes Wort Großschreiben
+	Capitalize Each Word	Jedes Wort großschreiben
 	Capitalize first letter of sentences	Jeden Satz mit einem Großbuchstaben beginnen
 	Capitalize first letter of table cells	Jede Tabellenzelle mit einem Großbuchstaben beginnen
 	Capitalize names of days	Wochentage großschreiben
@@ -915,7 +915,7 @@
 	Interface theme:	Oberflächendesign:
 	Interface\nTheme	Oberflächen-\ndesign
 	Internet addresses as links	Internetadressen als Links
-	Intersection	Intersection
+	Intersection	Schnittmenge
 	Ionosphere	Ionosphäre
 	Is blank	Ist leer
 	Is not blank	Ist nicht leer
@@ -1573,7 +1573,7 @@
 	Scale Drawing	Zeichnung skalieren
 	Scatter	Punkt (XY)
 	Script	Index
-	Scripts	Scripts
+	Scripts	Schriftvarianten
 	Scroll ribbon left	Menüband nach links scrollen
 	Scroll ribbon right	Menüband nach rechts scrollen
 	Search Commands	Befehle suchen
@@ -1913,6 +1913,7 @@
 	Thick	Stark
 	this chart was made in another program: WordCraft shows it but can't edit it	dieses Diagramm wurde in einem anderen Programm erstellt: WordCraft zeigt es an, kann es aber nicht bearbeiten
 	This document	Dieses Dokument
+	This document has no bookmarks.	Dieses Dokument hat keine Textmarken.
 	This document only?	Nur dieses Dokument?
 	This field has no options.	Dieses Feld hat keine Optionen.
 	This folder can't be read: {error}	Dieser Ordner kann nicht gelesen werden: {error}
@@ -1993,6 +1994,7 @@
 	Undo {n} Actions	{n} Aktionen rückgängig
 	Undo, undo, undo… we're time travelling now.	Rückgängig, rückgängig, rückgängig… jetzt reisen wir durch die Zeit.
 	Unformatted Text	Unformatierter Text
+	Union	Vereinigung
 	Unlink Fields	Feldverknüpfungen aufheben
 	Unlink\nCitations	Verknüpfung der\nZitate lösen
 	Unlock Fields	Felder entsperren
@@ -2136,3 +2138,122 @@
 	Dark Yellow	Dunkelgelb
 	Gray-50%	Grau-50%
 	Gray-25%	Grau-25%
+	Add a language…	Sprache hinzufügen…
+	Add a language	Sprache hinzufügen
+	Your languages	Ihre Sprachen
+	English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation.	Englisch, die Sprachen dieses Dokuments und jedes installierte Sprachpaket. Sprachpakete bringen Rechtschreibwörterbücher und Silbentrennung mit.
+	Set as default	Als Standard festlegen
+	New blank documents are written in this language	Neue leere Dokumente werden in dieser Sprache geschrieben
+	{language} (default)	{language} (Standard)
+	Built in	Integriert
+	Your own dictionary	Ihr eigenes Wörterbuch
+	System dictionary	Systemwörterbuch
+	Not available yet	Noch nicht verfügbar
+	Grammar built in	Grammatik integriert
+	Install spelling ({size})	Rechtschreibung installieren ({size})
+	Its dictionary couldn't be read: {reason}	Das Wörterbuch konnte nicht gelesen werden: {reason}
+	Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub.	Das Herunterladen ist ausgeschaltet. Ein Klick auf „Sprache hinzufügen…“ oder „Installieren“ schaltet es ein: WordCraft lädt dann Sprachpakete und Schriftarten von GitHub herunter.
+	Search:	Suchen:
+	Dutch, Nederlands or nl	Niederländisch, Nederlands oder nl
+	No languages to show yet.	Noch keine Sprachen anzuzeigen.
+	No language matches your search.	Keine Sprache entspricht Ihrer Suche.
+	An installed Language pack is used after this folder.	Ein installiertes Sprachpaket wird nach diesem Ordner verwendet.
+	Dictionary files	Wörterbuchdateien
+	Possible spelling mistake	Möglicher Rechtschreibfehler
+	Gets the list of Language packs, then this language's pack if there is one.	Holt die Liste der Sprachpakete, dann das Paket dieser Sprache, falls es eines gibt.
+	Afrikaans	Afrikaans
+	Belarusian	Belarussisch
+	Bulgarian	Bulgarisch
+	Bosnian	Bosnisch
+	Catalan	Katalanisch
+	Catalan (Valencian)	Katalanisch (Valencianisch)
+	Welsh	Walisisch
+	Esperanto	Esperanto
+	Persian	Persisch
+	Irish	Irisch
+	Galician	Galicisch
+	Hungarian	Ungarisch
+	Armenian	Armenisch
+	Icelandic	Isländisch
+	Georgian	Georgisch
+	Lithuanian	Litauisch
+	Latvian	Lettisch
+	Macedonian	Mazedonisch
+	Norwegian (Nynorsk)	Norwegisch (Nynorsk)
+	Slovak	Slowakisch
+	Slovenian	Slowenisch
+	Albanian	Albanisch
+	Swahili	Swahili
+	Tamil	Tamil
+	Thai	Thai
+	Vietnamese	Vietnamesisch
+	Set as Default Language	Als Standardsprache festlegen
+	U.A.E.	Vereinigte Arabische Emirate
+	Angola	Angola
+	Argentina	Argentinien
+	Austria	Österreich
+	Australia	Australien
+	Bosnia and Herzegovina	Bosnien und Herzegowina
+	Belgium	Belgien
+	Bolivia	Bolivien
+	Brazil	Brasilien
+	Belarus	Belarus
+	Canada	Kanada
+	Switzerland	Schweiz
+	Chile	Chile
+	China	China
+	Colombia	Kolumbien
+	Costa Rica	Costa Rica
+	Cuba	Kuba
+	Cabo Verde	Kap Verde
+	Cyprus	Zypern
+	Germany	Deutschland
+	Dominican Republic	Dominikanische Republik
+	Ecuador	Ecuador
+	Egypt	Ägypten
+	Spain	Spanien
+	Finland	Finnland
+	France	Frankreich
+	United Kingdom	Vereinigtes Königreich
+	Equatorial Guinea	Äquatorialguinea
+	Guatemala	Guatemala
+	Hong Kong SAR	Sonderverwaltungsregion Hongkong
+	Honduras	Honduras
+	Ireland	Irland
+	India	Indien
+	Iraq	Irak
+	Italy	Italien
+	Jamaica	Jamaika
+	Jordan	Jordanien
+	Kuwait	Kuwait
+	Kazakhstan	Kasachstan
+	Lebanon	Libanon
+	Liechtenstein	Liechtenstein
+	Luxembourg	Luxemburg
+	Morocco	Marokko
+	Monaco	Monaco
+	Montenegro	Montenegro
+	Macao SAR	Sonderverwaltungsregion Macau
+	Mexico	Mexiko
+	Malaysia	Malaysia
+	Mozambique	Mosambik
+	Nicaragua	Nicaragua
+	Netherlands	Niederlande
+	New Zealand	Neuseeland
+	Panama	Panama
+	Peru	Peru
+	Philippines	Philippinen
+	Puerto Rico	Puerto Rico
+	Portugal	Portugal
+	Paraguay	Paraguay
+	Qatar	Katar
+	Russia	Russland
+	Singapore	Singapur
+	El Salvador	El Salvador
+	Syria	Syrien
+	Taiwan	Taiwan
+	Ukraine	Ukraine
+	United States	Vereinigte Staaten
+	Uruguay	Uruguay
+	Venezuela	Venezuela
+	South Africa	Südafrika
