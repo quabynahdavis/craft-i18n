@@ -1,4 +1,4 @@
-# Asante Twi (tw) interface catalog for every Crafting App.
+# Akan (ak) interface catalog for every Crafting App.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -11,18 +11,18 @@
 # computing vocabulary. No other product's localisation, string table or translated UI was
 # consulted or copied; add entries the same way.
 
-@id	language.name	Asante Twi
-#	% of all commits	
+@id	language.name	Akan
+	% of all commits	% wɔ commits nyinaa mu
 #	(Custom)	
 #	(none)	
-#	1 file	
+	1 file	fael baako
 #	16 bit	
 #	24 bit	
 #	24 bits/pixel	
 #	32 bit	
 #	32 bits/pixel	
 #	8 bit	
-#	About	
+	About	Ɛho asɛm
 #	Absolute	
 #	Absolute Colorimetric	
 #	Accented Edges	
@@ -33,14 +33,14 @@
 #	Active	
 #	Actual Size	
 #	Adaptive	
-#	Add	
+	Add	Fa biribi ka ho
 #	Add a comment	
-#	Add Guide	
-#	Add to Dictionary	
-#	Add to favorites	
-#	Add to Swatches	
-#	Adjust	
-#	Adjustments	
+	Add Guide	Fa akwankyerɛ ka ho
+	Add to Dictionary	Fa ka dictionary no ho
+	Add to favorites	Fa ka wo favorites ho
+	Add to Swatches	Fa ka wo Swatches no ho
+	Adjust	Dane mu
+	Adjustments	Nsakrae ahodoɔ w'ayɛ
 #	Advanced	
 #	Align	
 #	Align center	
@@ -174,9 +174,9 @@
 #	Centered	
 #	Centimeters	
 #	Chamfer	
-#	Change	
-#	Change All	
-#	Change Case	
+	Change	Sesa
+	Change All	Sesa ne nyinaa
+	Change Case	Sesa akyerɛwdeɛ
 #	Change Panel Layout	
 #	Channel	
 #	Channel Mixer	
@@ -184,8 +184,8 @@
 #	Character	
 #	Character Styles	
 #	Characters	
-#	Check for Updates	
-#	Check for updates	
+	Check for Updates	Hwɛ sɛ updates bi wɔ hɔ a
+	Check for updates	Hwɛ sɛ updates bi wɔ hɔ a
 #	Check Spelling…	
 #	Checkerboard	
 #	Choose…	
@@ -260,9 +260,9 @@
 #	Copyrighted	
 #	Corner	
 #	Corners	
-#	Correction	
-#	Couldn't open {name}: {e}	
-#@msg	Couldn't open {name}: {e}	
+	Correction	Nsiesie
+	Couldn't open {name}: {e}	Yentumi embue {name} efiri sɛ: {e}
+@msg	Couldn't open {name}: {e}	Yentumi embue {name} efiri sɛ: {e}
 #	Country	
 #	Crack Brightness	
 #	Crack Depth	
@@ -602,7 +602,7 @@
 #	Join the ArtCraft Discord	
 #	Join the ArtCraft Discord…	
 #	Join us on Discord	
-#	just now	sesiara
+	just now	sesiara
 #	Justification	
 #	Justify	
 #	Keep:	
@@ -616,9 +616,9 @@
 #	Label	
 #	Labels	
 #	Landscape	
-#	Language	Kasa
-#	Language Options	Kasa ahodoɔ
-#	Language:	Kasa:
+	Language	Kasa
+	Language Options	Kasa ahodoɔ
+	Language:	Kasa:
 #	Large	
 #	Lasso	
 #	Lasso Tool	
@@ -798,7 +798,7 @@
 #	Offline	
 #	Offset	
 #	Offset:	
-#	OK	
+	OK	Aane
 #	Omit	
 #	On	
 #	Only Web Colors	
@@ -1272,9 +1272,9 @@
 #	Workspaces	
 #	X	
 #	Y	
-#	Yellow	
-#	Yes	
-#	yesterday	
+	Yellow	Yɛlo
+	Yes	Aane
+	yesterday	nnora
 #	Your changes will be lost if you don't save them.	
 #	Zoom	
 #	Zoom In	
@@ -1282,9 +1282,9 @@
 #	Zoom Out	
 #	Zoom out	
 #	Zoom Tool	
-#@plural	{n} commit|{n} commits	
-#	{n} files	
-#	{n} h ago	
+@plural	{n} commit|{n} commits	GitHub commit {n}|Github commit {n}
+	{n} files	faels {n}
+	{n} h ago	  nnɔnhwere {n} a atwam' ni
 #@plural	{n} item|{n} items	
 #@plural	{n} Layer|{n} Layers	
 #	{n} min ago	
