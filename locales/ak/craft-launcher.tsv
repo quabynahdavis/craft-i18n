@@ -15,8 +15,8 @@
 	A new version is available. Would you like to relaunch with the updated version?	Update foforɔ aba. Wopɛsɛ wobue ɛno anaa?
 	All releases	Releases ne nyinaa
 #	App	
-#column	App	
-#	App details	
+#column	App	App
+#	App details	App no ho asɛm
 #@id	app.download	
 #@id	app.github	
 #@id	app.install	
@@ -280,7 +280,7 @@
 #	{month} {day}, {year}	
 #	{name} details	
 #	{name} icon	
-#@msg	{name} installed: {version}	
+#@msg	{name} installed: {version}	W'atwe {name} {version}
 #@msg	{name} installed: {version} (this release publishes no checksum, so only its size was checked)	
 #@msg	{name} is running. Quit it, then try again.	
 #@msg	{name} updated to {version}	
@@ -289,12 +289,12 @@
 #@msg	{name} was installed from the AUR ({pkg}). Update it with {cmd}	
 #@msg	{name} was installed from the {repo} repository or the AUR ({pkg}). Update it with your AUR helper (for example: yay -S {pkg}) or sudo pacman -Syu	
 #@msg	{name} was installed from the {repo} repository or the AUR ({pkg}). Update it with {cmd} or sudo pacman -Syu	
-#@msg	{name} was removed	
-#	{name} {version}	
-#	{name} {v} is available	
-#@plural	{n} app|{n} apps	
-#@plural	{n} day ago|{n} days ago	da {1} ni|nda {n} a abɛsen kɔ
-#@plural	{n} h ago|{n} h ago	
+#@msg	{name} was removed	W'eyi {name} efiri wo system no so
+#	{name} {version}	{name} {version}
+#	{name} {v} is available	{name} a ɛwɔ version {v} yɛ available
+#@plural	{n} app|{n} apps	apps {n}|apps {n}
+#@plural	{n} day ago|{n} days ago	da {1} ni|nda {n} nie
+#@plural	{n} h ago|{n} h ago	dɔnwhere {1} ni|ndɔnwhere {n} a abɛsen kɔ
 #@plural	{n} min ago|{n} min ago	sima {n} nie|sima {n} a abɛsen kɔ
 #@msg	{path} already exists and wasn't installed by ArtCraft Launcher	{path} no wɔ hɔ dada, nanso ɛnyɛ ArtCraft Launcher na ɛyɛeɛ
 #	{path} already exists. Installing {name} will overwrite it.	{path} no wɔ hɔ dada. Sɛ wo instɔle a, ɛbɛsesa. Yɛntoa so anaa?
