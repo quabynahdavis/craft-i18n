@@ -169,13 +169,13 @@ column	App	App
 #	On Linux, custom folders use AppImage format.	
 #	Only when I ask	
 #	Open ArtCraft Launcher to update.	
-#	Open on GitHub	
+	Open on GitHub	Bue wɔ Github
 #	Open Source Tools for Creatives, Makers, and Builders	
 #designcraft	Page layout and publishing	
-#	Pause download	
+	Pause download	Pausi download yi
 #lightcraft	Photo library and raw development	
-#	Pictures couldn't be loaded. Reopen this page to try again.	
-#	Platforms	
+	Pictures couldn't be loaded. Reopen this page to try again.	Mfoni no entumi enbue, reloadi page yi na try bio
+	Platforms	Platforms ahodoɔ
 #	Portable (.zip)	
 #deckcraft	Presentations and slide shows	
 #	Previous app	
