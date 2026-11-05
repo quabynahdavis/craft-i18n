@@ -12,16 +12,16 @@
 # consulted or copied; add entries the same way.
 
 @id	language.name	Akan
-	% of all commits	% wɔ commits nyinaa mu
+	% of all commits	 commits ne nyinaa mu %
 #	(Custom)	
 #	(none)	
 	1 file	fael baako
-#	16 bit	
-#	24 bit	
-#	24 bits/pixel	
-#	32 bit	
-#	32 bits/pixel	
-#	8 bit	
+	16 bit	16 bit
+	24 bit	24 bit
+	24 bits/pixel	24 bits/piksel
+	32 bit	32 bit
+	32 bits/pixel	32 bits/piksel
+	8 bit	8 bit
 	About	Ɛho asɛm
 #	Absolute	
 #	Absolute Colorimetric	
@@ -42,28 +42,28 @@
 	Adjust	Dane mu
 	Adjustments	Nsakrae ahodoɔ w'ayɛ
 #	Advanced	
-#	Align	
-#	Align center	
-#	Align Left	
-#	Align left	
-#	Align Right	
-#	Align right	
-#	Align Text	
-#	Align to Selection	
-#	Alignment	
-#	Alignment:	
-#	All	
-#	All Caps	
+	Align	Hyehyɛ
+	Align center	Hyehyɛ no ma ɛne mfinimfini no hyia
+	Align Left	Hyehyɛ kɔ benkum so
+	Align left	Hyehyɛ kɔ benkum so
+	Align Right	Hyehyɛ kɔ nimfa so
+	Align right	Hyehyɛ kɔ nimfa so
+	Align Text	Hyehyɛ nsɛmfua no
+	Align to Selection	Hyehyɛ ma ɛne selection no nhyia
+	Alignment	Nhyehyɛeɛ
+	Alignment:	Nhyehyɛeɛ:
+	All	Ne nyinaa
+	All Caps	Yɛ wɔn nyinaa nkyerɛwde akɛseɛ
 #	All Categories	
-#	All files	
-#	All Layers	
-#	All pages	
-#	All Slices	
+	All files	Faels ne nyinaa
+	All Layers	Layers ne nyinaa
+	All pages	Nkratafa ne nyinaa
+	All Slices	Nkyekyɛmu ne nyinaa
 #	Alpha	
 #	Alt	
-#	Always	
-#	Amount	
-#	Amount:	
+	Always	Abere biara
+	Amount	Dodoɔ
+	Amount:	Dodoɔ
 #	Angle	
 #	Angle:	
 #	Angular	
@@ -71,10 +71,10 @@
 #	Animation effects	
 #	Anti-Alias	
 #	Anti-alias	
-#	Any	
-#	Appearance	
+	Any	Biribiara
+	Appearance	Hwɛbea
 #theme	Appearance	
-#	Appearance Settings…	
+	Appearance Settings…	Hwɛbea ho nsiesie
 #	Application	
 #	Apply	
 #	Apply Character Style	
@@ -96,8 +96,8 @@
 #	Assign	
 #	Assign Profile…	
 #	Audio	
-#	Author	
-#	Author:	
+	Author	Ɔtwerɛfoɔ
+	Author:	Ɔtwerɛfoɔ:
 #	Auto	
 #	Auto ({percent}%)	
 #	Auto Color	
