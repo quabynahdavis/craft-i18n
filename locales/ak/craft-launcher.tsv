@@ -39,7 +39,7 @@ column	App	App
 #	ArtCraft Launcher is still running	
 #	ArtCraft Launcher {version}	ArtCraft Launcher {version}
 #	ArtCraft Launcher {version} is available.	ArtCraft Launcher {version} ɛyɛ available.
-#@plural	ArtCraft Launcher … {n} update available|ArtCraft Launcher · {n} updates available	ArtCraft Launcher … updates {n} na ɛwɔ hɔ|ArtCraft Launcher … updates {n} na ɛwɔ hɔ
+#@plural	ArtCraft Launcher · {n} update available|ArtCraft Launcher · {n} updates available	ArtCraft Launcher · updates {n} na ɛwɔ hɔ|ArtCraft Launcher · updates {n} na ɛwɔ hɔ
 #	ArtCraft on GitHub	ArtCraftfoɔ GitHub
 #	ArtCraft on {name}	ArtCraftfoɔ {name}
 #month	Aug	
@@ -285,10 +285,10 @@ wordcraft	Writing and document design	Yɛ de nkyerɛwyɛ ne dɔkumenti ho ndwuma
 @msg	{name} is running. Quit it, then try again.	{name} da so di dwuma. Dum no na san try bio.
 @msg	{name} updated to {version}	{name} updati kɔ version {version}
 @msg	{name} updated to {version} (this release publishes no checksum, so only its size was checked)	{name} updati kɔ version {version} (release yi nni checksum biara, nti ne kɛseɛ nkoa na yɛhwɛe)
-@msg	{name} was installed from the AUR ({pkg}). Update it with your AUR helper (for example: yay -S {pkg})	Wo instɔlee {name} firii AUR ({pkg}), nti fa wo AUR helper no yɛ update no. (Wobetumi de yay -S {pkg} ayɛ) 
-@msg	{name} was installed from the AUR ({pkg}). Update it with {cmd}	Wo instɔlee {name} firii AUR({pkg}). Fa {cmd} yɛ update no.
-@msg	{name} was installed from the {repo} repository or the AUR ({pkg}). Update it with your AUR helper (for example: yay -S {pkg}) or sudo pacman -Syu	Wo instɔlee {name} firii wo packages repo ({repo}) AUR ({pkg}), nti fa wo AUR helper no yɛ update no. (Wobetumi de yay -S {pkg} and sudo pacman -Syu ayɛ)
-@msg	{name} was installed from the {repo} repository or the AUR ({pkg}). Update it with {cmd} or sudo pacman -Syu	Wo instɔlee {name} firii {repo} repository anaa AUR({pkg}). Fa {cmd} anaa sudo pacman -Syu yɛ update no.
+	{name} was installed from the AUR ({pkg}). Update it with your AUR helper (for example: yay -S {pkg})	Wo instɔlee {name} firii AUR({pkg}), nti fa wo AUR helper no yɛ update no. (Wobetumi de yay -S {pkg} ayɛ)
+	{name} was installed from the AUR ({pkg}). Update it with {cmd}	Wo instɔlee {name} firii AUR({pkg}). Fa {cmd} yɛ update no.
+	{name} was installed from the {repo} repository or the AUR ({pkg}). Update it with your AUR helper (for example: yay -S {pkg}) or sudo pacman -Syu	Wo instɔlee {name} firii {repo} repository anaa AUR({pkg}), nti fa wo AUR helper no yɛ update no. (Wobetumi de yay -S {pkg} anaa sudo pacman -Syu ayɛ)
+	{name} was installed from the {repo} repository or the AUR ({pkg}). Update it with {cmd} or sudo pacman -Syu	Wo instɔlee {name} firii {repo} repository anaa AUR({pkg}). Fa {cmd} anaa sudo pacman -Syu yɛ update no.
 @msg	{name} was removed	W'eyi {name} efiri wo system no so
 	{name} {version}	{name} {version}
 	{name} {v} is available	{name} a ɛwɔ version {v} yɛ available
@@ -297,8 +297,8 @@ wordcraft	Writing and document design	Yɛ de nkyerɛwyɛ ne dɔkumenti ho ndwuma
 @plural	{n} h ago|{n} h ago	dɔnwhere {n} ni|ndɔnwhere {n} a abɛsen kɔ
 @plural	{n} min ago|{n} min ago	sima {n} nie|sima {n} a abɛsen kɔ
 @msg	{path} already exists and wasn't installed by ArtCraft Launcher	{path} no wɔ hɔ dada, nanso ɛnyɛ ArtCraft Launcher na ɛyɛeɛ
-	{path} already exists. Installing {name} will overwrite it.	{path} no wɔ hɔ dada. Sɛ wo instɔle a, ɛbɛsesa {name}. Yɛntoa so anaa?
-	{version} installed → {latest} released	Wo wɔ {version} -> {latest} ne latest no
+	{path} already exists. Installing {name} will overwrite it.	{path} no wɔ hɔ dada. Sɛ wo instɔle {name}, ɛbɛsesa no.
+	{version} installed → {latest} released	Wo wɔ {version} → {latest} ne latest no
 	⊞  Grid	Grid
 	☰  Table	Table
-	🔍  Search apps	 Hwehwɛ apps
+	🔍  Search apps	Hwehwɛ apps
